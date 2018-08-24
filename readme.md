@@ -24,7 +24,8 @@ A function always starts with it's name, followed by opening and closing parenth
 - [PHP Function Index](http://php.net/manual/fa/indexes.php)
 
 ### Arrays
-Arrays represent a group of things and are important in PHP and, although automatically assigned a number key or index, can be custom mapped using associative arrays. If you do not customize the keys in your array, it is called an Index array. Arrays can be written within arrays.
+Arrays represent a group of things and are important in PHP and, although automatically assigned a number key or index, can be custom mapped using associative arrays. If you do not customize the keys in your array, it is called an Index array.
+- Arrays can be written within arrays, also called multi-dimensional array
 - Arrays can either be written with array() or just []
 
 ### Loops
